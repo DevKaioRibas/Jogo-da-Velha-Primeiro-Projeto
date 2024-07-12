@@ -1,1 +1,1 @@
-Jogo da velha prduzido em JavaScript puro
+Jogo da velha prduzido em JavaScript puro, com desafio de usar mais laços de repetições, limpar o sistema do jogo assim que ouver vencedor, mostrar quem for o vencendor é jogar entre dois jogadores ou com a IA
